@@ -2,6 +2,8 @@
 
 <img src="img/screenshot.jpg" width="666">
 
+Codepen :- https://codepen.io/SH20RAJ/pen/mdXQrXq?editors=1000
+
 * <img src="http://i.imgur.com/a8vMYZ2.png" width="16" height="16"> The progress bar timestamp on mouse over and playback
 * <img src="http://i.imgur.com/a8vMYZ2.png" width="16" height="16"> Toggle play/pause on button or video click
 * <img src="http://i.imgur.com/a8vMYZ2.png" width="16" height="16"> The buffer bar with the loading progress of the video
